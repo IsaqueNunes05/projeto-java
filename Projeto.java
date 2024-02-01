@@ -41,7 +41,7 @@ class Carro {
 }
 
 // Classe principal que contém o método main
-public class Main{
+public class Projeto{
     public static void main(String[] args) {
         // Criando um objeto da classe Pessoa chamado "pessoa1"
         Carro carro1 = new Carro("Toyota", "Toyota", 2009, "vermelho", 70);
